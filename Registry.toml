@@ -1,6 +1,6 @@
 name = "Wlreg"
-uuid = "e3e0ce73-d313-458b-80f2-c8d97ccbede9"
-repo = "https://github.com/mathutopia/Wlreg"
+uuid = "84dc1479-d0ce-4a3f-b510-e195668deb48"
+repo = "https://github.com/mathutopia/Wlreg.git"
 description = "My private registry"
 
 [packages]
