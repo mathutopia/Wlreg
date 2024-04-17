@@ -4,3 +4,4 @@ repo = "https://github.com/mathutopia/Wlreg.git"
 description = "My private registry"
 
 [packages]
+247ae7ab-d1b9-4f88-8529-b44b862cffa0 = { name = "Box", path = "B/Box" }
